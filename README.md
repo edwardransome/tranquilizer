@@ -245,4 +245,4 @@ are still accessible but in order to *try out* an endpoint that requires authent
 click the `Authorize` button at the top right. In the dialog box include the bearer token prepended by `Bearer`
 as shown in the screenshot. 
 
-![](img/swagger_authorize.png)
+![](img/swagger_authorize.png) 
